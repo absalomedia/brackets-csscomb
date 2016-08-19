@@ -1,9 +1,9 @@
 brackets-[csscomb](https://github.com/csscomb/csscomb.js)
 ============================
 
-Compatible with Sprint 22 and above
+Updated Brackets CSS Comber extensions
 
-Sorts css files with csscomb.js
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/absalomedia/brackets-csscomb/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/absalomedia/brackets-csscomb/?branch=master) [![StyleCI](https://styleci.io/repos/63387534/shield)](https://styleci.io/repos/63387534)
 
 
 Usage
@@ -17,7 +17,7 @@ Installation
 
 `File > Extension Manager > Install from URL`
 
-Paste https://github.com/i-akhmadullin/brackets-csscomb into Extension URL field
+Paste https://github.com/absalomedia/brackets-csscomb into Extension URL field
 
 
 Manual Installation
