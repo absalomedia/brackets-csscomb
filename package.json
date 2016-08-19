@@ -1,11 +1,15 @@
 {
     "name": "brackets-csscomb",
     "title": "CSScomb",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Format CSS files with csscomb.js",
-    "homepage": "https://github.com/i-akhmadullin/brackets-csscomb",
-    "author": "Ilya Akhmadullin (https://github.com/i-akhmadullin/)",
+    "homepage": "https://github.com/absalomedia/brackets-csscomb",
+    "author": "Lawrence Meckan (https://github.com/absalomedia/)",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/absalomedia/brackets-csscomb"
+        },    
     "categories":"formatting",
     "keywords": [
         "css",
@@ -23,6 +27,6 @@
         "brackets": ">=0.22.0"
     },
     "devDependencies": {
-        "csscomb": "~2.0.0"
+        "csscomb": "^3.1.0"
     }
 }
