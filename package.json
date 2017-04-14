@@ -1,7 +1,7 @@
 {
     "name": "brackets-csscomb",
     "title": "CSScomb",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Format CSS files with csscomb.js",
     "homepage": "https://github.com/absalomedia/brackets-csscomb",
     "author": "Lawrence Meckan (https://github.com/absalomedia/)",
