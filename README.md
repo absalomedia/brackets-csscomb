@@ -3,7 +3,7 @@ brackets-[csscomb](https://github.com/csscomb/csscomb.js)
 
 Updated Brackets CSS Comber extensions
 
-![CSSComb 3.1.7](https://img.shields.io/badge/csscomb-3.1.7-blue.svg) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/absalomedia/brackets-csscomb/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/absalomedia/brackets-csscomb/?branch=master) [![StyleCI](https://styleci.io/repos/63387534/shield)](https://styleci.io/repos/63387534) [![devDependencies Status](https://david-dm.org/absalomedia/brackets-csscomb/dev-status.svg)](https://david-dm.org/absalomedia/brackets-csscomb?type=dev)
+![CSSComb 4.0.1](https://img.shields.io/badge/csscomb-4.0.1-blue.svg) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/absalomedia/brackets-csscomb/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/absalomedia/brackets-csscomb/?branch=master) [![StyleCI](https://styleci.io/repos/63387534/shield)](https://styleci.io/repos/63387534) [![devDependencies Status](https://david-dm.org/absalomedia/brackets-csscomb/dev-status.svg)](https://david-dm.org/absalomedia/brackets-csscomb?type=dev)
 
 
 Usage
